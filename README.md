@@ -1,2 +1,2 @@
-# first--repo--form--terraform
+# first--repo
 my first resource for my course
